@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "cpschemadoc",
+    "cpschemadoc": "cpschemadoc"
+  }
+}
