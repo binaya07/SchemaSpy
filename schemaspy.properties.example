@@ -10,6 +10,6 @@ schemaspy.u=username
 schemaspy.p=password
 schemaspy.cat=%
 # output dir to save generated files
-schemaspy.o=/functions/public
+schemaspy.o=public
 # db scheme for which generate diagrams
 schemaspy.s=schema_name
